@@ -4,3 +4,5 @@
 2) Install Python 3.6 Version
 3) Install requirements.txt file
 4) Run app.py file
+
+Sample Input/Output Doc and Video is also given in this folder.
